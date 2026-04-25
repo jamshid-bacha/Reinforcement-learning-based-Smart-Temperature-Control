@@ -187,13 +187,9 @@ python DDPG_Balance_Room_Heating.py
 ---
 
 # 📁 Project Structure
-.
 ├── DDPG_Balance_Room_Heating.py # Training script
-
 ├── smart_temp_env.py # Custom environment
-
 ├── rewards.csv # Training results
-
 └── README.md
 
 
