@@ -228,3 +228,7 @@ This project demonstrates concepts used in:
 - Continuous control requires specialized algorithms like DDPG  
 
 ---
+
+# Reward and Result
+
+<img width="1328" height="969" alt="rewards" src="https://github.com/user-attachments/assets/59ffd787-daea-4fb8-b006-6d23a07c12af" />
