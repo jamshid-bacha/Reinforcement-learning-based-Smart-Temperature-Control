@@ -231,4 +231,4 @@ This project demonstrates concepts used in:
 
 # Reward and Result
 
-<img width="800" height="800" alt="rewards" src="https://github.com/user-attachments/assets/59ffd787-daea-4fb8-b006-6d23a07c12af" />
+<img width="800" height="600" alt="rewards" src="https://github.com/user-attachments/assets/59ffd787-daea-4fb8-b006-6d23a07c12af" />
