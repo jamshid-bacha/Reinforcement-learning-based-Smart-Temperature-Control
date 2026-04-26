@@ -174,7 +174,7 @@ pip install torch gym numpy matplotlib
 ---
 
 ## 2. Run training
-python DDPG_Balance_Room_Heating.py
+python main.py
 
 
 ---
@@ -183,19 +183,6 @@ python DDPG_Balance_Room_Heating.py
 
 - `rewards.csv` → Episode rewards  
 - Training plot → Reward vs Episode  
-
----
-
-# 📁 Project Structure
-├── DDPG_Balance_Room_Heating.py # Training script
-
-├── smart_temp_env.py # Custom environment
-
-├── rewards.csv # Training results
-
-└── README.md
-
-
 
 ---
 
